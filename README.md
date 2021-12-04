@@ -1,2 +1,2 @@
 # APPM-3310-Final
-Fianl project report for APPM 3310: Matrix Methods.
+Final project report for APPM 3310: Matrix Methods (Spring 2021). 
